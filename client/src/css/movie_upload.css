@@ -1,0 +1,19 @@
+.movie__container {
+    margin-top: -1%;
+    width: 40%;
+    background-color: aliceblue;
+    height: 650px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.movie__container>form {
+    margin-top: 30px;
+    margin-left: 92px;
+}
+
+.movie__container>p {
+    font-size: 30px;
+    margin-top: 8%;
+    padding-top: 40px;
+}
